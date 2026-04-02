@@ -8,7 +8,7 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)]()
 
-[Get Access](https://memesnipe.com) · [Features](#features) · [Demo](#demo) · [Architecture](#architecture)
+[Get Access](https://memesnipe.fun) · [Features](#features) · [Demo](#demo) · [Architecture](#architecture)
 
 </div>
 
@@ -39,19 +39,19 @@ Built for traders who need sub-second execution on memecoin launches.
 
 **Launch demo:**
 
-![Launch](assets/launc.mov)
+<video src="assets/launc.mp4" controls width="100%"></video>
 
 **Usage demo:**
 
-![Usage](assets/use.mov)
+<video src="assets/use.mp4" controls width="100%"></video>
 
 **Design overview:**
 
-![Design](assets/design.mov)
+<video src="assets/design.mp4" controls width="100%"></video>
 
 **Copy/workflow:**
 
-![Copy](assets/copy.mov)
+<video src="assets/copy.mp4" controls width="100%"></video>
 
 ---
 
@@ -172,7 +172,7 @@ PumpFun Sniper Bot is available as a **compiled binary** with beta access licens
 - Jito block engine access (optional, for MEV protection)
 
 ### Quick Start
-1. **Purchase beta access** at [memesnipe.com](https://memesnipe.com)
+1. **Purchase beta access** at [memesnipe.fun](https://memesnipe.fun)
 2. Receive your license key via email
 3. Download the binary for your platform
 4. Configure `.env` with your RPC endpoints and wallets
@@ -218,7 +218,7 @@ One license per server. Contact us for team pricing.
 
 ### Ready to snipe pump.fun launches?
 
-[![Get Beta Access](https://img.shields.io/badge/Get_Beta_Access-$500/month-58C88D?style=for-the-badge&logo=solana&logoColor=white)](https://memesnipe.com)
+[![Get Beta Access](https://img.shields.io/badge/Get_Beta_Access-$500/month-58C88D?style=for-the-badge&logo=solana&logoColor=white)](https://memesnipe.fun)
 
 **Pay with 300+ cryptocurrencies · Instant delivery · 24/7 support on Discord**
 

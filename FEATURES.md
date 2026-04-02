@@ -244,7 +244,7 @@ All endpoints require a valid license key:
 Authorization: Bearer YOUR_LICENSE_KEY
 ```
 
-License keys are delivered via email after purchase at [memesnipe.com](https://memesnipe.com).
+License keys are delivered via email after purchase at [memesnipe.fun](https://memesnipe.fun).
 
 ---
 
