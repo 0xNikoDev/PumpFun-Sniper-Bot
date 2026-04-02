@@ -37,21 +37,24 @@ Built for traders who need sub-second execution on memecoin launches.
 
 ## Demo
 
-**Launch demo:**
+<div align="center">
 
-![Launch](assets/launc.gif)
+| Instant Token Launch | Interactive Design | Fast Copying |
+|:---:|:---:|:---:|
+| ![Launch](assets/launc.gif) | ![Design](assets/design.gif) | ![Copy](assets/copy.gif) |
+| Deploy to pump.fun in seconds | Premium trading interface | One-click wallet and CA copying |
 
-**Usage demo:**
+</div>
+
+---
+
+## Perfect Side-by-Side
+
+Our deeply optimized compact design is built to snap cleanly alongside your favorite analytics platform.
+
+> Keep **Axiom, GMGN,** or any other chart open while keeping full control of your snipes in **1/3 perfectly scaled screen real-estate.**
 
 ![Usage](assets/use.gif)
-
-**Design overview:**
-
-![Design](assets/design.gif)
-
-**Copy/workflow:**
-
-![Copy](assets/copy.gif)
 
 ---
 
