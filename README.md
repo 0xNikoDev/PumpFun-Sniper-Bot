@@ -169,18 +169,11 @@ type wsHub struct {
 
 PumpFun Sniper Bot is available as a **compiled binary** with beta access licensing.
 
-### Requirements
-- Linux/macOS server (recommended: close to Solana RPC node)
-- Solana RPC endpoint (Helius, QuickNode, or private)
-- Jito block engine access (optional, for MEV protection)
-
 ### Quick Start
 1. **Purchase beta access** at [memesnipe.fun](https://memesnipe.fun)
 2. Receive your license key via email
-3. Download the binary for your platform
-4. Configure `.env` with your RPC endpoints and wallets
-5. Start the bot: `./pumpfun-bot --port 8080`
-6. Send snipe requests via REST API
+3. Open [app.memesnipe.fun](https://app.memesnipe.fun) — no setup, no binary, fully online
+4. Enter your key and start sniping
 
 ---
 
