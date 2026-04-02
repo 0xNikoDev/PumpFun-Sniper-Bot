@@ -39,19 +39,19 @@ Built for traders who need sub-second execution on memecoin launches.
 
 **Launch demo:**
 
-<video src="assets/launc.mp4" controls width="100%"></video>
+![Launch](assets/launc.gif)
 
 **Usage demo:**
 
-<video src="assets/use.mp4" controls width="100%"></video>
+![Usage](assets/use.gif)
 
 **Design overview:**
 
-<video src="assets/design.mp4" controls width="100%"></video>
+![Design](assets/design.gif)
 
 **Copy/workflow:**
 
-<video src="assets/copy.mp4" controls width="100%"></video>
+![Copy](assets/copy.gif)
 
 ---
 
