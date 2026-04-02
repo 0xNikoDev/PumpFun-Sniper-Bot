@@ -1,0 +1,10 @@
+{
+  "type": "trade",
+  "tokenId": "TokenMintAddress...",
+  "action": "buy",
+  "amountSOL": 1.5,
+  "priceUSD": 0.00042,
+  "marketCap": 42000,
+  "timestamp": "2026-04-01T12:00:00Z",
+  "signature": "5KtP...txhash"
+}

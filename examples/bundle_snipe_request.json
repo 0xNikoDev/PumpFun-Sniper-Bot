@@ -1,0 +1,6 @@
+{
+  "tokenId": "TokenMintAddress...",
+  "wallets": ["wallet1_pubkey", "wallet2_pubkey"],
+  "jitoTipSOL": 0.01,
+  "rpcFallbackDelayMs": 500
+}

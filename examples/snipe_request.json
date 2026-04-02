@@ -1,0 +1,7 @@
+{
+  "tokenId": "TokenMintAddress...",
+  "wallets": ["wallet1_pubkey", "wallet2_pubkey", "wallet3_pubkey"],
+  "buyPercent": 25.0,
+  "slippageBps": 500,
+  "devBuySOL": 0.5
+}
